@@ -1,0 +1,134 @@
+
+		p{
+			font-family: sans-serif;
+		}
+		a{
+			text-indent: 17px;
+			cursor: auto;
+		}
+		a.comment {
+			background-image: url(../images/comment-icon12x12.gif);
+			min-height: 15px;
+			display: block;
+			background-position: left center;
+			padding: 0 0 2px 16px;
+			margin-top: 0;
+			clear: both;
+			font-size: 12px;
+			background-repeat: no-repeat;
+		}
+		.news{
+			font-size: 0.9em;
+		}
+		.quote{
+			padding-left: 10%;
+			padding-right: 10%;
+			font-size: 0.8em;
+			text-align: justify;
+			text-justify: inter-word;
+		}
+		.blue{
+			color: #005689;
+		}
+		.padding-left{
+			padding-left: 8px;
+		}
+
+		.margin-top{
+			margin-top: 8px;
+		}
+
+		.black{
+			color: #000000;
+		}
+		.white{
+			color: #ffffff;	
+		}
+
+		.grey-b{
+			background-color: #dddddd;
+			padding-top: 5px;
+		}
+		.heading_banner{
+			background-color: #de4a33;
+			margin-top: 5px;
+			padding-bottom: 10px;
+		}
+		.highlight{
+			background-color: red;
+			padding-left: 3px;
+			padding-right: 3px;
+		}
+		.img-div{
+			margin-top: 8px;
+		}
+		.no-margin{
+			margin-left: 0px;
+		}
+		hr.dottedLine{
+			border:#000 1px dotted;
+			border-style: none none dotted;
+		}
+		.border-top-red{
+			border-top: 3px solid #d61d00;
+			margin-top: 6px;
+		}
+		.border-top-dotted{
+			border-top-style: dotted;
+			border-top-width: 1px;
+		}
+		#title_pre{
+			font-family: georgia,serif;
+			color: #ff0000;
+		}
+		#title_post{
+			font-family: georgia,serif;
+			font-weight: bold;
+			color: #004880;
+		}
+
+		ul.menu-inline li{
+			display: inline;
+			padding: 3px 3px;
+			border-right: 1px solid #000000;
+		}
+		ul.menu-inline li:last { border-right: 0px; }
+		.grey-div{
+			background-color: #dcdcdc;
+			 padding:0;
+			 padding-bottom: 20px;
+		}
+		.grey li{
+			color:#00008f;
+			padding: 3px 8px;
+			margin-left: -4px;
+
+		}
+		ul.grey li:hover{
+			background-color: #ff0000;
+			cursor:pointer;
+			
+		}
+		ul li:last{
+			border-right: 0px;
+		}
+		ul.menu-inline ul.grey{
+			-webkit-padding-start: 4px;
+		}
+		ul.persons li{
+			width: 100%;
+		}
+		ul.weather-inline li{
+			display: inline;
+			padding: 1px 3px;
+			border-right: 1px solid #000000;
+		}
+		#high-temprature{
+			background-color: orange;
+			border-radius: 5px;
+		}
+
+		#low-temprature{
+			background-color: #dddddd;
+			border-radius: 5px;
+		}
